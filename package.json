@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-arcgis-austin",
+  "version": "0.1.0",
+  "description": "City of Austin GIS — Austin, Texas open geospatial data (ArcGIS).",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "arcgis-austin"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-arcgis-austin"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
