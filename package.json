@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-austin",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "City of Austin GIS — Austin, Texas open geospatial data (ArcGIS).",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "arcgis-austin",
     "gatewaySlug": "arcgis-austin",
-    "sourceHash": "v1-a8cf4d6661337bd15df91a85797112f6b7a76576b3c66c73656237a5b0760471",
-    "sourceCommit": "c6136b81713e72ccb22977ca0c0cd981f8c3f081"
+    "sourceHash": "v1-3bd3d5f5ceb55d59fc7cc291ecf852b68e8a994e03e44b1c27c4451284d8fe3f",
+    "sourceCommit": "aef970216f5309cdd22a27ddfc275e472aaadac1"
   }
 }
